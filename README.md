@@ -32,7 +32,7 @@ Obsahem cvičení je pomocí klonování repozitáře z GitHubu zprovoznit jedno
 4. Zkontroluj git log projektu.
 5. Zkontroluj funkčnost webu na URL `https://tux.panska.cz/~10XPrijmeniJ/caj1`
 
-Web obsahuje jeden vzorový článek o černém čaji. Podle stejného schématu a struktury přidej na stránku další dva čaje. Vhodné obrázky a doprovodné texty si dohledej na webu [www.vybornycaj.cz](www.vybornycaj.cz). Pak pokračuj další částí (v tomto pořadí):
+Web obsahuje jeden vzorový článek o černém čaji. Podle stejného schématu a struktury přidej na stránku další dva čaje. Vhodné obrázky a doprovodné texty si dohledej na webu [www.vybornycaj.cz](https://www.vybornycaj.cz). Pak pokračuj další částí (v tomto pořadí):
 
 1. Do projektu přidej obrázek a vytvoř kód pro zobrazení druhého čaje.
 2. Vytvoř commit "Doplnění o <název> čaj"
